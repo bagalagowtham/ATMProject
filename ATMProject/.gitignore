@@ -1,5 +1,7 @@
 # Compiled class files
 *.class
+# Eclipse workspace
+.metadata/
 
 # Log files
 *.log
